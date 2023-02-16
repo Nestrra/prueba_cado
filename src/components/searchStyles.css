@@ -1,0 +1,31 @@
+
+
+
+.search_container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    margin-bottom: 2rem;
+
+}
+
+.input{
+
+        height: 30px;
+        border-radius: 8px;
+        width: 280px;
+
+}
+
+.btn{
+
+    background: rgb(37, 4, 4);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 0.55rem 2rem;
+    
+
+}

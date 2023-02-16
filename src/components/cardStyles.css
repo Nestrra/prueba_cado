@@ -1,0 +1,39 @@
+
+
+.card{
+
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2); 
+    border-radius: 5px;
+    margin-top: 2px;
+
+}
+
+.conten_img{
+
+    display: inline-block;
+   
+    padding: 5px;
+	
+
+}
+
+.img{
+    margin-left: 3px;
+    height: 190px;
+
+}
+
+.content_card{
+        padding: 1px;
+    display: inline-block;
+    width: 100%;
+   margin-left: 1rem;
+
+}
+.epi{
+    overflow:hidden; text-overflow: ellipsis;
+}

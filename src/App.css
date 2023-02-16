@@ -1,4 +1,4 @@
-
+/* 
 body {
   display: block;
   margin: 0;
@@ -39,5 +39,22 @@ body {
 
   display: flex;
   flex-direction: row;
+
+} */
+
+
+.container{
+  
+  padding: 8rem;
+
+}  
+
+.container_cards{
+    justify-content: center;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,  minmax(370px, 1fr) );
+    gap: 1rem;
+
 
 }
